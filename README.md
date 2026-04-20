@@ -37,9 +37,20 @@ llm-bootcamp/
 
 Each week contains:
 - `project.md` - Project description and requirements
+- `assessment.md` - Assessment questions to validate learning
 - `solution/` - Reference implementation
 - `notebooks/` - Jupyter notebooks for exploration
 - `data/` - Sample datasets (if applicable)
+
+### Assessment Files
+
+Every week includes an assessment file designed to test understanding through hands-on experimentation. The assessment follows these principles:
+
+- **Base your answers on your own experiments**
+- **Do not copy from docs or Google**
+- **NO AI GENERATED ANSWERS**
+
+The goal is to ensure genuine learning through direct interaction with the concepts, not just regurgitating documentation.
 
 ## 🛠️ Prerequisites
 
