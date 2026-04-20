@@ -42,7 +42,7 @@ Each week contains:
 - `notebooks/` - Jupyter notebooks for exploration
 - `data/` - Sample datasets (if applicable)
 
-### Assessment Files
+### 📝 Assessment Files
 
 Every week includes an assessment file designed to test understanding through hands-on experimentation. The assessment follows these principles:
 
